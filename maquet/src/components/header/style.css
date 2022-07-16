@@ -1,0 +1,46 @@
+.main__container {
+height: 128px;
+background: #F1EEE7;
+}
+
+.nav__title{
+    width: 351px;
+    height: 96px;
+    font-family: 'Recoleta Alt';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 97px;
+    color: #7AA749;
+    }
+
+.item-text {
+
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 1.2px;
+    color:  #3D5425;
+}
+
+.navs__container{
+display: flex;
+flex-direction: row;
+padding: 0px;
+gap: 16px;
+width: 431px;
+height: 46px;
+
+}
+
+.nav-item{
+    background-color: #F1EEE7; 
+}
+
+
+
